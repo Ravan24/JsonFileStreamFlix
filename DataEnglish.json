@@ -1,18 +1,45 @@
 [
   {
-    "id": 703297,
+    "id": 703299,
     "num": 1,
-    "name": "STAR SPORTS 2 FHD (50 FPS)",
-    "streamUrl": "http://starshare.online/live/johannes/johannes123/703297.ts",
+    "name": "STAR 4K",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703299.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703300,
+    "num": 2,
+    "name": "ADD FREE WILLOW HINDI MATCH 1",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703300.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703301,
+    "num": 3,
+    "name": "ADD FREE WILLOW ENG MATCH 1",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703301.ts",
     "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
     "group": "IPL (2026)",
     "type": "LIVE"
   },
   {
     "id": 703296,
-    "num": 2,
+    "num": 4,
     "name": "STAR SPORTS 1 FHD (50FPS)",
     "streamUrl": "http://starshare.online/live/johannes/johannes123/703296.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703297,
+    "num": 5,
+    "name": "STAR SPORTS 2 FHD (50 FPS)",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703297.ts",
     "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
     "group": "IPL (2026)",
     "type": "LIVE"
