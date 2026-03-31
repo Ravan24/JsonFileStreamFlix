@@ -1,27 +1,27 @@
 [
   {
-    "id": 703299,
+    "id": 702533,
     "num": 1,
-    "name": "STAR 4K",
-    "streamUrl": "http://starshare.online/live/johannes/johannes123/703299.ts",
+    "name": "STAR SPORTS 1 ENG LOW QUALITY",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/702533.ts",
     "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
     "group": "IPL (2026)",
     "type": "LIVE"
   },
   {
-    "id": 703300,
+    "id": 702543,
     "num": 2,
-    "name": "ADD FREE WILLOW HINDI MATCH 1",
-    "streamUrl": "http://starshare.online/live/johannes/johannes123/703300.ts",
+    "name": "STAR SPORTS 2 ENG LOW QUALITY",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/702543.ts",
     "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
     "group": "IPL (2026)",
     "type": "LIVE"
   },
   {
-    "id": 703301,
+    "id": 702561,
     "num": 3,
-    "name": "ADD FREE WILLOW ENG MATCH 1",
-    "streamUrl": "http://starshare.online/live/johannes/johannes123/703301.ts",
+    "name": "STAR SPORTS 1 HINDI ",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/702561.ts",
     "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
     "group": "IPL (2026)",
     "type": "LIVE"
@@ -40,6 +40,42 @@
     "num": 5,
     "name": "STAR SPORTS 2 FHD (50 FPS)",
     "streamUrl": "http://starshare.online/live/johannes/johannes123/703297.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703298,
+    "num": 6,
+    "name": "STAR SPORTS 1 HINDI FHD (50 FPS)",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703298.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703299,
+    "num": 7,
+    "name": "STAR 4K",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703299.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703300,
+    "num": 8,
+    "name": "ADD FREE WILLOW HINDI MATCH 1",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703300.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703301,
+    "num": 9,
+    "name": "ADD FREE WILLOW ENG MATCH 1",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703301.ts",
     "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
     "group": "IPL (2026)",
     "type": "LIVE"
