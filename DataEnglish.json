@@ -1,11 +1,20 @@
 [
   {
-    "id": 702561,
+    "id": 703297,
     "num": 1,
-    "name": "STAR SPORTS 1 HINDI ",
-    "streamUrl": "http://starshare.online/live/johannes/johannes123/702561.ts",
+    "name": "STAR SPORTS 2 FHD (50 FPS)",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703297.ts",
     "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
-    "group": "Live",
+    "group": "IPL (2026)",
+    "type": "LIVE"
+  },
+  {
+    "id": 703296,
+    "num": 2,
+    "name": "STAR SPORTS 1 FHD (50FPS)",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/703296.ts",
+    "logo": "https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png",
+    "group": "IPL (2026)",
     "type": "LIVE"
   }
 ]
