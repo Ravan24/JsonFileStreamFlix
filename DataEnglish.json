@@ -1,5 +1,14 @@
 [
   {
+    "id": 12,
+    "num": 1,
+    "name": "CRIC || SKY SPORTS CRIC ᴴᴰ",
+    "streamUrl": "http://starshare.online/live/johannes/johannes123/12.ts",
+    "logo": "http://greenpa1.com/skycricket.png",
+    "group": "CRICKET",
+    "type": "LIVE"
+  },
+  {
     "id": 9400,
     "num": 1,
     "name": "IN: Star Sports Select 1 (FHD)",
