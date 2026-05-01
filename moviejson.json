@@ -1,5 +1,23 @@
 [
   {
+    "id": 508465,
+    "num": 1,
+    "name": "Chhaava (2025) (Hindi)",
+    "streamUrl": "http://starshare.one:80/movie/johannes/johannes123/508465.mp4",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9F4lPRLjfBjsu0zjWNOZQMa8a4V.jpg",
+    "group": " INDIAN FHD (2025)",
+    "type": "MOVIE"
+  },
+  {
+    "id": 501203,
+    "num": 2,
+    "name": "Deva (2025) (Hindi)",
+    "streamUrl": "http://starshare.one:80/movie/johannes/johannes123/501203.mp4",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27Kiv6jVLX01D4Emwdeb1CUGCAv.jpg",
+    "group": " INDIAN FHD (2025)",
+    "type": "MOVIE"
+  },
+  {
     "id": 698551,
     "num": 1,
     "name": "Border 2 (2026) (Hindi)",
